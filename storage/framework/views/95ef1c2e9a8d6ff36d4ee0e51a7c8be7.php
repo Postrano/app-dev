@@ -1,0 +1,1 @@
+admin Profile<?php /**PATH C:\Users\REMELOU POSTRANO\Desktop\billnwow\prototype\resources\views/about/admin/profile.blade.php ENDPATH**/ ?>
